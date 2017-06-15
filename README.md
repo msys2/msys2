@@ -2,7 +2,7 @@
 
 ### Resources
 
-- [website](http://msys.org)
+- [website](http://www.msys2.org)
 - [wiki](https://github.com/msys2/msys2/wiki)
 
 ### Repositories
