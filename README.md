@@ -16,3 +16,6 @@
 - [website](https://github.com/msys2/msys2.github.io)
 - [installer](https://github.com/msys2/msys2-installer)
 - [path conversion routines](https://github.com/alexpux/path_convert)
+
+
+## Issues must to be posted in appropriate repository from the links above.
