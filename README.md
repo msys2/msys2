@@ -18,4 +18,4 @@
 - [path conversion routines](https://github.com/alexpux/path_convert)
 
 
-## Issues must to be posted in appropriate repository from the links above.
+## Issues must to be posted into MINgw or MSYS2 packages repositories ONLY.
