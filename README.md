@@ -9,7 +9,7 @@
 
 - [home](https://github.com/msys2/msys2)
 - [runtime](https://github.com/alexpux/cygwin)
-- [MSYS2 Packages](https://github.com/alexpux/msys2-packages)
+- [MSYS](https://github.com/alexpux/msys2-packages)
 - [MINGW Packages](https://github.com/alexpux/mingw-packages)
 - [Pacman](https://github.com/alexpux/msys2-pacman)
 - [keyring](https://github.com/Alexpux/msys2-keyring)
@@ -18,4 +18,4 @@
 - [path conversion routines](https://github.com/alexpux/path_convert)
 
 ## Issue and Bug Reports
-Issues must be posted in [MINGW Packages](https://github.com/alexpux/mingw-packages) or [MSYS2 Packages](https://github.com/alexpux/msys2-packages) repositories ONLY.
+Issues must be posted in [MINGW Packages](https://github.com/alexpux/mingw-packages) or [MSYS](https://github.com/alexpux/msys2-packages) repositories ONLY.
