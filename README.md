@@ -1,11 +1,11 @@
 # MSYS2 GitHub homepage
 
-## Resources
+### Resources
 
 - [website](http://www.msys2.org)
 - [wiki](https://github.com/msys2/msys2/wiki)
 
-## Repositories
+### Repositories
 
 - [home](https://github.com/msys2/msys2)
 - [runtime](https://github.com/alexpux/cygwin)
